@@ -9,7 +9,7 @@ A simple machine learning web app built with **Streamlit** that predicts house p
 
 ## 📂 Project Files
 
-- `app.py` – Main and only file. Contains the full code for:
+- `app.py` – Main file. Contains the full code for:
   - Data generation
   - Model training
   - Streamlit UI for prediction and plotting
