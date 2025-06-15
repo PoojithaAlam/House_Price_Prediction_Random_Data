@@ -1,3 +1,6 @@
+
+
+
 # 🏡 House Price Predictor (Streamlit App)
 
 A simple machine learning web app built with **Streamlit** that predicts house prices based on house size (in square feet). It uses randomly generated data and a linear regression model from scikit-learn.
@@ -15,18 +18,37 @@ A simple machine learning web app built with **Streamlit** that predicts house p
 
 ## 📊 Features
 
-- Generates fake housing data using NumPy
+- Generates random sample housing data using NumPy
 - Trains a Linear Regression model in real-time
 - Interactive input for house size
 - Predicts house price based on user input
 - Visualizes dataset using Plotly Express
 
----
 
-## 🚀 Getting Started
+## Install dependencies
 
-### 1. Clone the repository
+pip install -r requirements.txt
+## Run the app
+streamlit run app.py
 
-```bash
-git clone https://github.com/YOUR_USERNAME/house-price-predictor.git
-cd house-price-predictor
+## 🛠 Dependencies
+List of required packages (included in requirements.txt):
+
+streamlit
+
+numpy
+
+pandas
+
+scikit-learn
+
+plotly
+## 📌 Notes
+This app is for educational/demo purposes only.
+
+It uses random data, not real housing data.
+
+
+## 👨‍💻 Author
+
+Created by Poojitha
