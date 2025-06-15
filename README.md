@@ -24,6 +24,13 @@ A simple machine learning web app built with **Streamlit** that predicts house p
 - Predicts house price based on user input
 - Visualizes dataset using Plotly Express
 
+## Screenshot
+
+![App Screenshot](https://github.com/PoojithaAlam/House_Price_Prediction_Random_Data/blob/fe643e0359c5c1ff4878a11573939e69151e3324/House%20price.png)
+  
+## Website link
+
+https://housepricepredictionrandomdata.streamlit.app/
 
 ## Install dependencies
 
@@ -48,10 +55,6 @@ This app is for educational/demo purposes only.
 
 It uses random data, not real housing data.
 
-
-## Website link
-
-https://housepricepredictionrandomdata.streamlit.app/
 ## 👨‍💻 Author
 
 Created by Poojitha
